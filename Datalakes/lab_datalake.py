@@ -17,7 +17,7 @@ def create_blob(subscription_id):
 
     # Constants we need in multiple places: the resource group name and the region
     # in which we provision resources. You can change these values however you want.
-    RESOURCE_GROUP_NAME = "PythonAzure-Lab-Datalake-2"
+    RESOURCE_GROUP_NAME = "PythonAzure-Lab-Datalake"
     LOCATION = "centralus"
 
     # Step 1: Provision the resource group.
