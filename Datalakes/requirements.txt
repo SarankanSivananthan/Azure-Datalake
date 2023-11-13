@@ -1,0 +1,7 @@
+azure-mgmt-resource
+azure-mgmt-rdbms
+azure-identity
+azure-mgmt-storage
+azure-storage-blob
+mysql-connector
+azure-storage-file-datalake==12.10.0
