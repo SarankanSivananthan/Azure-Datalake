@@ -1,5 +1,5 @@
 # Lab 2 : Azure Data Factory with Storage, SQL and Databricks
-authors: Harmantepe Melis, BOUCHET Ulysse, SIVANANTHAN Sarankan
+authors: BOUCHET Ulysse, HARMANTEPE Melis, SIVANANTHAN Sarankan
 
 This repo contains:
   - main.py: used in the batch to concatenate the input csv files and add stock name column
