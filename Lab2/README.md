@@ -1,4 +1,4 @@
-# Lab 2 : Azure Data Factory with Storage,SQL and Databricks
+# Lab 2 : Azure Data Factory with Storage, SQL and Databricks
 authors: Harmantepe Melis, BOUCHET Ulysse, SIVANANTHAN Sarankan
 
 This repo contains:
